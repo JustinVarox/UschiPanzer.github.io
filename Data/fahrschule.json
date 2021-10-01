@@ -2,14 +2,14 @@
     "members": [
         {
             "name": "Chriss Kross",
-            "rank": "Fahrlehrer | Inhaber",
+            "rank": "Fahrlehrer | Geschäftsführer",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/59/3272-5927f41840fd6c7a4b6f45fe913e08d5ad32f1cc.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/630-chrisskross/"
         },
         {
             "name": "Prof. Dr. Ing. Justin Varox",
-            "rank": "Fahrlehrer | Manager",
+            "rank": "Fahrlehrer | Stellv. Geschäftsführer",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/cb/6064-cb35c1545c2f6236044395aafe0a78a9aaaa81c1.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-prof-dr-justin-varox/"
@@ -34,6 +34,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
+        }
+         {
+            "name": "Norbert Hellmann",
+            "rank": "Fahrlehrer",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/cf/5572-cf790d956aae793f9c429be001aecece55635cd5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1802-ron"
         }
     ]
 }
