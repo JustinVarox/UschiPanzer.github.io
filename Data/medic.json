@@ -16,10 +16,17 @@
         },
           {
             "name": "Michael Melone",
-            "rank": "Organisatorische-Leitung | Sanitäter",
+            "rank": "Organisatorische Leitung | Sanitäter",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/6402-7c6ec705ff94f20e9bec370a81f8dade19adb56e.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1667-gpx-michael-71/#about"
+        },
+         {
+            "name": "Helmut von Richthofen",
+            "rank": "Organisatorische Leitung | Sanitäter & Ärzte",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/6452-a3e0665ad7b8ee9539633ec988b1b2db93073778.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-helmut-von-richthofen/"
         },
         {
             "name": "Nils Lombax",
@@ -70,13 +77,6 @@
             "picture": "https://i.imgur.com/N5OaIjO.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
-         {
-            "name": "Helmut von Richthofen",
-            "rank": "Leitender Notarzt | Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a3/6452-a3e0665ad7b8ee9539633ec988b1b2db93073778.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1106-helmut-von-richthofen/"
-        },  
          {
             "name": "Luca Feinstaub",
             "rank": "Notarzt",
